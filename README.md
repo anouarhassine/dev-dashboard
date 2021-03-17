@@ -1,3 +1,5 @@
+![build](https://github.com/anouarhassine/dev-dashboard/workflows/CI/badge.svg)
+
 # Dev dashboard
 
 A small dashboard with statuses of some development platforms.
