@@ -10,6 +10,10 @@ This project is an experiment in Web Front End development with React and Typesc
 
 It currently displays the status of Bitbucket, Circle ci and Npm.
 
+Here is a screenshot of the displayed statuses:
+
+![screenshot](./pics/dashboard-capture.png)
+
 ## Local build and run
 
 Run the following commands:
