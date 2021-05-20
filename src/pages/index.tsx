@@ -8,6 +8,9 @@ const Home = () => {
       <Head>
         <title>Dev Dashboard</title>
         <link rel="icon" href="/speed.png" />
+        <meta property="og:title" content="Developer Dashboard" />
+        <meta property="og:type" content="website" />
+        <meta property="og:description" content="Monitor the status of development platforms." />
       </Head>
 
       <header className={styles.header}>
