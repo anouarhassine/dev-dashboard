@@ -1,3 +1,5 @@
+![build](https://github.com/anouarhassine/dev-dashboard/workflows/CI/badge.svg)
+
 # Dev dashboard
 
 A small dashboard with statuses of some development platforms.
@@ -7,6 +9,10 @@ A small dashboard with statuses of some development platforms.
 This project is an experiment in Web Front End development with React and Typescript.
 
 It currently displays the status of Bitbucket, Circle ci and Npm.
+
+Here is a screenshot of the displayed statuses:
+
+![screenshot](./pics/dashboard-capture.png)
 
 ## Local build and run
 
